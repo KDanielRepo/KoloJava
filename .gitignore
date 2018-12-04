@@ -1,0 +1,10 @@
+.classpath
+.project
+target/
+.settings/
+nb-configuration.xml
+*.iml
+.idea/
+/bin/
+.vscode/
+out/
